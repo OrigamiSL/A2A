@@ -5,7 +5,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of Area2Area forecasting formula in the following paper: 
-[Area2Area Forecasting: Looser Constraints, Better Predictions](Manuscript submitted to journal Neurocomputing).
+[Area2Area Forecasting: Looser Constraints, Better Predictions](Manuscript submitted to journal Information Sciences).
 
 
 
