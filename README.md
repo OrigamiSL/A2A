@@ -68,15 +68,9 @@ pip install -r requirements.txt
 
 ## Data
 
-The ETT dataset was acquired at: [ETT](https://github.com/zhouhaoyi/ETDataset); 
+ETT, ECL, Traffic, Exchange and weather datasets were acquired at: [datasets](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing); 
+WTH dataset was acquired at: [WTH](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR?usp=sharing).
 
-The ECL dataset was acquired at: [ECL](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014); 
-
-The Traffic dataset was acquired at: [Traffic](http://pems.dot.ca.gov); 
-
-The Exchange dataset was acquired at: [Exchange](https://github.com/laiguokun/multivariate-time-series-data); 
-
-The weather dataset was acquired at: [weather](https://www.bgc-jena.mpg.de/wetter/).
 
 ## Usage
 Commands for training and testing Temporal ELAN-A2A of all datasets are in `./scripts/A2A.sh`.
