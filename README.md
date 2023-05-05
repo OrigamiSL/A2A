@@ -128,9 +128,27 @@ Here we provide a more detailed and complete command description for training an
 The experiment parameters of each data set are formated in the `A2A.sh` files in the directory `./scripts/`. You can refer to these parameters for experiments, and you can also adjust the parameters to obtain better mse and mae results or draw better prediction figures.
 
 <p align="center">
-<img src="./img/Multivariate.png" height = "500" alt="" align=center />
+<img src="./img/Multivariate1.png" height = "500" alt="" align=center />
 <br><br>
-<b>Figure 4.</b> Multivariate forecasting results
+<b>Figure 4.</b> Quantitative results of multivariate forecasting with {ETTh1, ETTm2, ECL}
+</p>
+
+<p align="center">
+<img src="./img/Multivariate2.png" height = "500" alt="" align=center />
+<br><br>
+<b>Figure 5.</b> Quantitative results of multivariate forecasting with {Traffic, Exchange, Weather}
+</p>
+
+<p align="center">
+<img src="./img/Univariate.png" height = "500" alt="" align=center />
+<br><br>
+<b>Figure 6.</b> Quantitative results of univariate forecasting under ETTh1 and Weather
+</p>
+
+<p align="center">
+<img src="./img/Univariate_M4.png" height = "280" alt="" align=center />
+<br><br>
+<b>Figure 7.</b> Univariate forecasting results
 </p>
 
 
