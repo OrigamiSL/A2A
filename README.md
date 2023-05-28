@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ## Data
 
 ETT, ECL, Traffic, Exchange and weather datasets were acquired at: [datasets](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing); 
-WTH dataset was acquired at: [WTH](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR?usp=sharing).
+WTH dataset was acquired at: [WTH](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR?usp=sharing). We rename the last variable of ECL/Traffic/Exchange from `OT` to original `MT_321`/`Sensor_861`/`Singapore` respectively.
 
 
 ## Usage
